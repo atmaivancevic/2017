@@ -4,7 +4,7 @@
 ##### Available at https://wikis.utexas.edu/display/bioiteam/Variant+calling+tutorial
 
 ##### Learning objectives
-
+# Call and compare variants in reads
 
 ### Calling variants in reads mapped by bowtie
 # First, copy the output files from Mapping Tutorial to this dir
