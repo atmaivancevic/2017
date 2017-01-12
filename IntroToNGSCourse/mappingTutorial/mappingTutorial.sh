@@ -3,6 +3,10 @@
 ##### MAPPING TUTORIAL
 ##### Available at https://wikis.utexas.edu/display/bioiteam/Mapping+tutorial
 
+##### Learning Objectives:
+# Learn how to index a reference genome, map reads, convert output to SAM format for downstream analysis
+# Compare bowtie, bwa and bowtie2 on a publicly available E. coli Illumina data set.
+
 ### First, download sample reference genome and paired end read data files
 # E.coli reference genome on https://www.ncbi.nlm.nih.gov/nuccore/NC_012967.1
 # Send -> to File -> Format: GenBank (full) -> Show GI -> Create File
